@@ -4,6 +4,9 @@ on python for data science
 
 Please install anaconda and the jupyter notebook
 
+The repository is available here:
+`https://github.com/alexanderbuchholz/cudss_workshops`
+
 # Python for Data Science
 For starting the workshop, please make sure you have anaconda installed. We will use python 3 for this workshop. 
 
